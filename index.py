@@ -10,4 +10,4 @@ async def ping(ctx):
 bot.run('TOKEN YOUR BOT')
 
 
-// https://github.com/XVladXProgramming/beggining-commands-discord-py/tree/main
+//example by https://github.com/XVladXProgramming/beggining-commands-discord-py/tree/main
