@@ -8,3 +8,6 @@ async def ping(ctx):
     await ctx.send('pong')
 
 bot.run('TOKEN YOUR BOT')
+
+
+// https://github.com/XVladXProgramming/beggining-commands-discord-py/tree/main
